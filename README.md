@@ -70,7 +70,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
+git clone https://github.com/neomat-prog/StoreIt---Google-Drive-Clone.git
 cd storage_management_solution
 ```
 
