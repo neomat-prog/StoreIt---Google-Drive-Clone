@@ -1032,4 +1032,5 @@ declare interface ShareInputProps {
 
 
 ## <a name="more">🚀 More</a>
-  This project has been created using JS Mastery Course 
+ 
+This project was created using the JS Mastery Course
