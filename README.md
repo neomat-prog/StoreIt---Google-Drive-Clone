@@ -13,15 +13,6 @@
   </div>
 
 
-## 🚨 Tutorial
-
-
-## <a name="introduction">🤖 Introduction</a>
-
-A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
